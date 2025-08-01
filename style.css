@@ -11,8 +11,8 @@ body {
 
 .row {
   display: flex;
-  gap: 10px;
-  margin-bottom: 10px;
+  /* gap: 10px; */
+  /* margin-bottom: 10px; */
 }
 
 .row-atas .box {
@@ -25,8 +25,8 @@ body {
 
 .box {
   height: 100px;
-  border: 2px solid black;
-  border-radius: 6px;
+  /* border: 2px solid #3E3F29;
+  border-radius: 6px; */
   overflow: hidden;
 }
 
